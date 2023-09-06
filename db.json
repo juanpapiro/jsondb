@@ -1,0 +1,61 @@
+{
+    "locales": [
+		{
+            "id": "1",
+            "type": "N",
+            "city": "Florianópolis",
+            "uriImg": "https://todepassagem.clickbus.com.br/wp-content/uploads/2020/09/Praias-de-Florian%C3%B3polis.jpg",
+            "amount": "2.000,00",
+            "money": "R$",
+            "desc": "5 dias com hospedagem e passagem"
+        }, {
+            "id": "2",
+            "type": "N",
+            "city": "Maceió",
+            "uriImg": "https://www.melhoresdestinos.com.br/wp-content/uploads/2021/04/maragogi-capa-03-820x430.jpg",
+            "amount": "3.000,00",
+            "money": "R$",
+            "desc": "7 dias com hospedagem e passagem"
+        }, {
+            "id": "3",
+            "type": "N",
+            "city": "Porto de Galinhas",
+            "uriImg": "https://s3q7j5f5.stackpathcdn.com/wp-content/uploads/2022/03/porto-de-galinhas-cidade.jpg",
+            "amount": "4.200,00",
+            "money": "R$",
+            "desc": "5 dias com hospedagem e passagem"
+        }, {
+            "id": "4",
+            "type": "N",
+            "city": "Maragogi",
+            "uriImg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Gal%C3%A9s_de_maragogi.jpg",
+            "amount": "3.500,00",
+            "money": "R$",
+            "desc": "6 dias com hospedagem e passagem"
+        }, {
+            "id": "5",
+            "type": "I",
+            "city": "Maldivas",
+            "uriImg": "https://assets-cdn.kangaroo.com.br/images/maldivas/w-maldives-maldivas.jpg",
+            "amount": "7.500,00",
+            "money": "R$",
+            "desc": "5 dias com hospedagem e passagem"
+        }, {
+            "id": "6",
+            "type": "I",
+            "city": "Punta Cana",
+            "uriImg": "https://a.cdn-hotels.com/gdcs/production126/d749/5a84ff32-5bb1-459a-ad2b-0de819ff033c.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+            "amount": "10.100,00",
+            "money": "R$",
+            "desc": "5 dias com hospedagem e passagem"
+        }, {
+            "id": "7",
+            "type": "I",
+            "city": "Cancun",
+            "uriImg": "https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1920/v1669252371/ywjmu12h4u1ioovmjzo4.jpg",
+            "amount": "8.200,00",
+            "money": "R$",
+            "desc": "5 dias com hospedagem e passagem"
+        }
+    ]
+}
